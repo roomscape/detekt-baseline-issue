@@ -1,6 +1,9 @@
 package com.example
 
 class Example {
+    /**
+     * Remove this comment and run detekt again.
+     */
     fun checkFoo() {
         println("This method is way too long")
         println("This method is way too long")
